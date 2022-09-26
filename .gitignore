@@ -1,0 +1,6 @@
+*/
+*.ninja*
+CMakeCache.txt
+CMakeLists.txt.user
+*.exe
+*.cmake
